@@ -49,7 +49,9 @@ After installation, use the following command to perform local testing:
 ribo-decode --cds gluc --env HEK293T --mfe_weight 0 --optim_epoch 10
 ```
 
-The cds options include gluc, NGF, H1N1, with additional sequences to be made available later. Similarly, the 'env' parameter can be set to HEK293T, A549, BJ, with support for additional environments planned for future releases. **Stay tuned !!!**
+The cds options include gluc, NGF, H1N1, with additional sequences to be made available later. Similarly, the 'env' parameter can be set to HEK293T, A549, BJ, with support for additional environments planned for future releases. 
+
+**Stay tuned !!!**
 
 The parameter 'mfe_weight' can be assigned a constant value ranging from 0 to 1, while the optim_epoch can be specified as an integer as required.
 
