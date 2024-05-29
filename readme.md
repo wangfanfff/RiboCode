@@ -19,6 +19,10 @@ The required dependency packages will be automatically downloaded the first time
 
 - **translation model**
 
+You can download the necessary .whl file from the following link:
+
+https://drive.google.com/drive/folders/1r_Nf4SGtM5GbB7d72n-RXYzpBIy8kM1J?usp=sharing
+
 To install the translation model program, execute the following command:
 
 ```
@@ -37,6 +41,10 @@ Following these instructions, you can obtain the ribosome profiling (RPF) expres
 
 - **RidoDecode**
 
+You can download the necessary .whl file from the following link:
+
+https://drive.google.com/drive/folders/1aTNJYidETmTGnjYbOfoPRu6tO8fgewqv?usp=sharing
+
 To install the RidoDecode program, execute the following command:
 
 ```
@@ -49,10 +57,12 @@ After installation, use the following command to perform local testing:
 ribo-decode --cds gluc --env HEK293T --mfe_weight 0 --optim_epoch 10
 ```
 
+The parameter 'mfe_weight' can be assigned a constant value ranging from 0 to 1, while the optim_epoch can be specified as an integer as required.
+
 The cds options include gluc, NGF, H1N1, with additional sequences to be made available later. Similarly, the 'env' parameter can be set to HEK293T, A549, BJ, with support for additional environments planned for future releases. 
 
-**Stay tuned !!!**
 
-The parameter 'mfe_weight' can be assigned a constant value ranging from 0 to 1, while the optim_epoch can be specified as an integer as required.
+# **Stay tuned !!!**
+
 
 ## Citation
