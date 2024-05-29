@@ -1,8 +1,6 @@
-#  Deep Generative Optimization of mRNA Codon Sequences for Enhanced Protein Production and Therapeutic Efficacy
+#  RidoDecode
 
-This is the official PyTorch implementation of **RidoDecode** .
-
-# Get Started
+Deep Generative Optimization of mRNA Codon Sequences for Enhanced Protein Production and Therapeutic Efficacy.
 
 ## Environment
 - Python=3.8  
@@ -26,7 +24,7 @@ https://drive.google.com/drive/folders/1r_Nf4SGtM5GbB7d72n-RXYzpBIy8kM1J?usp=sha
 To install the translation model program, execute the following command:
 
 ```
-pip install TranslationModel-0.1.0-py3-none-any.whl
+pip install TranslationModel-1.0.0-py3-none-any.whl
 ```
 
 After installation, use the following command to perform local testing:
@@ -48,7 +46,7 @@ https://drive.google.com/drive/folders/1aTNJYidETmTGnjYbOfoPRu6tO8fgewqv?usp=sha
 To install the RidoDecode program, execute the following command:
 
 ```
-pip install RiboDecode-0.1.0-py3-none-any.whl
+pip install RiboDecode-1.0.0-py3-none-any.whl
 ```
 
 After installation, use the following command to perform local testing:
@@ -61,8 +59,12 @@ The parameter 'mfe_weight' can be assigned a constant value ranging from 0 to 1,
 
 The cds options include gluc, NGF, H1N1, with additional sequences to be made available later. Similarly, the 'env' parameter can be set to HEK293T, A549, BJ, with support for additional environments planned for future releases. 
 
-
-# **Stay tuned !!!**
-
-
 ## Citation
+
+Deep Generative Optimization of mRNA Codon Sequences for Enhanced Protein Production and Therapeutic Efficacy.
+
+## History
+
+- **1.0 (2024-5-29)**
+
+  Updata readme.md.
