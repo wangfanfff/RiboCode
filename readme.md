@@ -15,7 +15,7 @@ The required dependency packages will be automatically downloaded the first time
 
 ## Installation and Usage
 
-- **translation model**
+- **TranslationModel**
 
 You can download the necessary .whl file from the following link:
 
