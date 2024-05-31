@@ -1,4 +1,4 @@
-#  RidoDecode
+#  RiboDecode
 
 Deep Generative Optimization of mRNA Codon Sequences for Enhanced Protein Production and Therapeutic Efficacy.
 
@@ -37,13 +37,13 @@ The maximum length of the coding sequence (CDS) should not exceed 4500. The curr
 
 Following these instructions, you can obtain the ribosome profiling (RPF) expression value for a specific CDS sequence in a particular environment.
 
-- **RidoDecode**
+- **RiboDecode**
 
 You can download the necessary .whl file from the following link:
 
 https://drive.google.com/drive/folders/1aTNJYidETmTGnjYbOfoPRu6tO8fgewqv?usp=sharing
 
-To install the RidoDecode program, execute the following command:
+To install the RiboDecode program, execute the following command:
 
 ```
 pip install RiboDecode-1.0.0-py3-none-any.whl
