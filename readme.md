@@ -21,7 +21,7 @@ You can download the necessary .whl file from the following link:
 
 https://drive.google.com/drive/folders/1r_Nf4SGtM5GbB7d72n-RXYzpBIy8kM1J?usp=sharing
 
-To install the translation model program, execute the following command:
+To install the TranslationModel program, execute the following command:
 
 ```
 pip install TranslationModel-1.0.0-py3-none-any.whl
