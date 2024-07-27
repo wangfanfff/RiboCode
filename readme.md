@@ -35,7 +35,7 @@ pred-translation --cds ATGGACGGGTAG --env HEK293T
 
 The maximum length of the coding sequence (CDS) should not exceed 4500. The current environment supports HEK293T, A549, and BJ. Support for additional environments will be added gradually.
 
-Following these instructions, you can obtain the ribosome profiling (RPF) expression value for a specific CDS sequence in a particular environment.
+Following these instructions, you can obtain the predicted translation level of mRNA for a specific CDS sequence in a particular cellular environment.
 
 - **RiboDecode**
 
