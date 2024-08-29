@@ -1,4 +1,4 @@
-#  RiboDecode
+#  RiboCode
 
 Deep Generative Optimization of mRNA Codon Sequences for Enhanced Protein Production and Therapeutic Efficacy.
 
@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1VZ_zs09-d9hWHRUeDXv_noA3on-9wump/view?usp=shari
 To install the TranslationModel program, execute the following command:
 
 ```
-pip install TranslationModel-1.1.0-py3-none-any.whl
+pip install TranslationModel-1.0.0-py3-none-any.whl
 ```
 
 After installation, use the following command to perform local testing:
@@ -37,7 +37,7 @@ The maximum length of the coding sequence (CDS) should not exceed 4500. The curr
 
 Following these instructions, you can obtain the predicted translation level of mRNA for a specific CDS sequence in a particular cellular environment.
 
-- **RiboDecode**
+- **RiboCode**
 
 You can download the necessary .whl file from the following link:
 
@@ -46,13 +46,13 @@ https://drive.google.com/file/d/1OIYWVv7uaabjrBOFluXJiEAJ2znm9Kfg/view?usp=shari
 To install the RiboDecode program, execute the following command:
 
 ```
-pip install RiboDecode-1.1.0-py3-none-any.whl
+pip install RiboCode-1.0.0-py3-none-any.whl
 ```
 
 After installation, use the following command to perform local testing:
 
 ```
-ribo-decode --cds gluc --env HEK293T --mfe_weight 0 --optim_epoch 10
+ribo-code --cds gluc --env HEK293T --mfe_weight 0 --optim_epoch 10
 ```
 
 The parameter 'mfe_weight' can be assigned a constant value ranging from 0 to 1, while the optim_epoch can be specified as an integer as required.
