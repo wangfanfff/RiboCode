@@ -19,7 +19,7 @@ The required dependency packages will be automatically downloaded the first time
 
 You can download the necessary .whl file from the following link:
 
-https://drive.google.com/file/d/179Mvw9XvEKsmRvtIXwe8Za2M_69p2QkE/view?usp=sharing
+https://drive.google.com/file/d/1V3uuRUcCImFxBbJEYvV6otck2LvvsZr3/view?usp=sharing
 
 To install the TranslationModel program, execute the following command:
 
@@ -41,9 +41,9 @@ Following these instructions, you can obtain the predicted translation level of 
 
 You can download the necessary .whl file from the following link:
 
-https://drive.google.com/file/d/1zeEZsXwHC8_csah7blIb1nLSGHvuLVwh/view?usp=sharing
+https://drive.google.com/file/d/1yPVdxTOHjgQEd42AOl56iC49AsakewCy/view?usp=sharing
 
-To install the RiboDecode program, execute the following command:
+To install the RiboCode program, execute the following command:
 
 ```
 pip install RiboCode-1.0.0-py3-none-any.whl
